@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1Self",
+		"2pdf",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Cucumber",
+		"Emmet",
+		"ERB Autocomplete",
+		"JavaScript Completions",
+		"JsFormat",
+		"JSHint",
+		"JSX",
+		"Package Control",
+		"QuickGotoAnything",
+		"SCSS",
+		"SublimeERB",
+		"SublimeLinter"
+	]
+}

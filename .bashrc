@@ -26,5 +26,3 @@ git_prompt ()
   echo " [$git_color$git_branch${c_reset}]"
 }
 PS1=' ${c_path}\w${c_reset}$(git_prompt)\$ \n⤷ '
-
-# export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
